@@ -1,0 +1,10 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20,<1
+langchain-text-splitters>=0.3,<2
+langchain-community>=0.3,<2
+langchain-chroma>=0.2,<2
+langchain-huggingface>=0.1,<2
+groq
+sentence-transformers>=3.4,<6
+pypdf>=5.3,<7
